@@ -12,6 +12,6 @@ Some key aspects:
 
 Deployed live on https://snack.expo.dev/@ya-boris/github.com-ya-boris-tesla-clone-rn. Check out!
 
-
+![Screenshot 2021-07-26 at 00 48 18](https://user-images.githubusercontent.com/68222437/126914698-0f534977-cd49-4949-84e9-da5513043865.png)
 
 Yooooo! 🚀 

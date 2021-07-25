@@ -7,7 +7,7 @@ const Home = ({ navigation }) => {
 
   // FAKE DATA
   const initialCurrentLocation = {
-    streetName: "Moscow",
+    streetName: "Moscow Kremlin",
     gps: {
       latitude: 55.75220752565325,
       longitude: 37.61787377201903
@@ -82,12 +82,12 @@ const Home = ({ navigation }) => {
       photo: images.burger_restaurant_1,
       duration: "30 - 45 min",
       location: {
-        latitude: 1.5347282806345879,
-        longitude: 110.35632207358996,
+        latitude: 55.74189276683966,
+        longitude: 37.62631583902392,
       },
       courier: {
         avatar: images.avatar_1,
-        name: "Amy"
+        name: "Varvara"
       },
       menu: [
         {
@@ -125,12 +125,12 @@ const Home = ({ navigation }) => {
       photo: images.pizza_restaurant,
       duration: "15 - 20 min",
       location: {
-        latitude: 1.556306570595712,
-        longitude: 110.35504616746915,
+        latitude: 55.75394085731966,
+        longitude: 37.636549594345155,
       },
       courier: {
         avatar: images.avatar_2,
-        name: "Jackson"
+        name: "Luigi"
       },
       menu: [
         {
@@ -176,12 +176,12 @@ const Home = ({ navigation }) => {
       photo: images.hot_dog_restaurant,
       duration: "20 - 25 min",
       location: {
-        latitude: 1.5238753474714375,
-        longitude: 110.34261833833622,
+        latitude: 55.7482359381483,
+        longitude: 37.62719404600491,
       },
       courier: {
         avatar: images.avatar_3,
-        name: "James"
+        name: "Evgeniy"
       },
       menu: [
         {
@@ -203,8 +203,8 @@ const Home = ({ navigation }) => {
       photo: images.japanese_restaurant,
       duration: "10 - 15 min",
       location: {
-        latitude: 1.5578068150528928,
-        longitude: 110.35482523764315,
+        latitude: 55.757700691723095,
+        longitude: 37.60745298654434,
       },
       courier: {
         avatar: images.avatar_4,
@@ -230,12 +230,12 @@ const Home = ({ navigation }) => {
       photo: images.noodle_shop,
       duration: "15 - 20 min",
       location: {
-        latitude: 1.558050496260768,
-        longitude: 110.34743759630511,
+        latitude: 55.758736272267875,
+        longitude: 37.61687763397974,
       },
       courier: {
         avatar: images.avatar_4,
-        name: "Muthu"
+        name: "Michael"
       },
       menu: [
         {
@@ -281,12 +281,12 @@ const Home = ({ navigation }) => {
       photo: images.kek_lapis_shop,
       duration: "35 - 40 min",
       location: {
-        latitude: 1.5573478487252896,
-        longitude: 110.35568783282145,
+        latitude: 55.75650318073156,
+        longitude: 37.62171037563188,
       },
       courier: {
         avatar: images.avatar_1,
-        name: "Jessie"
+        name: "Alexa"
       },
       menu: [
         {
@@ -399,7 +399,7 @@ const Home = ({ navigation }) => {
         <TouchableOpacity
           style={{
             padding: SIZES.padding,
-            paddingBottom: SIZES.padding * 2,
+            paddingBottom: SIZES.padding * 1.5,
             backgroundColor: (selectedCategory?.id == item.id) ? COLORS.primary : COLORS.white,
             borderRadius: SIZES.radius,
             alignItems: "center",
@@ -444,7 +444,6 @@ const Home = ({ navigation }) => {
 
     return (
       <View style={{ padding: SIZES.padding * 2 }}>
-        <Text style={{ ...FONTS.h1 }}>Main</Text>
         <Text style={{ ...FONTS.h1 }}>Categories</Text>
 
         <FlatList

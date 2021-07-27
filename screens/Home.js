@@ -4,7 +4,6 @@ import { SafeAreaView, TouchableOpacity, StyleSheet, Image, FlatList, View, Text
 import { icons, images, SIZES, COLORS, FONTS } from '../constants'
 
 const Home = ({ navigation }) => {
-
   // FAKE DATA
   const initialCurrentLocation = {
     streetName: "Moscow Kremlin",

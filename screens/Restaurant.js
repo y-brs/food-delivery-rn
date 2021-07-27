@@ -1,7 +1,6 @@
 import React from 'react'
 import { SafeAreaView, TouchableOpacity, StyleSheet, Image, View, Text, Animated } from 'react-native'
 import { isIphoneX } from 'react-native-iphone-x-helper'
-
 import { icons, COLORS, SIZES, FONTS } from '../constants'
 
 const Restaurant = ({ route, navigation }) => {

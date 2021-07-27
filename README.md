@@ -12,9 +12,8 @@ Some key aspects:
 
 Snack on https://snack.expo.dev/@ya-boris/github.com-ya-boris-food-delivery-rn. Check out!
 
-![Screenshot 2021-07-26 at 01 03 03](https://user-images.githubusercontent.com/68222437/126914881-8116f930-572e-4b0c-b1d1-b423b1ca245c.png)
-![Screenshot 2021-07-26 at 01 03 15](https://user-images.githubusercontent.com/68222437/126914882-2f9ccccb-207e-4efb-bf09-0267d6d1555f.png)
-![Screenshot 2021-07-26 at 01 03 30](https://user-images.githubusercontent.com/68222437/126914883-2bf2eee1-0b94-4364-8a76-33f238a64a61.png)
-
+![1](https://user-images.githubusercontent.com/68222437/127187965-24556b04-69c7-4dbe-aeeb-213db76ce53e.jpg)
+![2](https://user-images.githubusercontent.com/68222437/127187972-c7057fb2-89c1-4b85-9d7c-2f34a39f73b4.jpg)
+![3](https://user-images.githubusercontent.com/68222437/127187978-27a39479-b803-49da-a675-932e9b7e3064.jpg)
 
 Yooooo! 🚀 
